@@ -1,7 +1,7 @@
 ﻿{
-    "versionCode":  10,
-    "versionName":  "1.0.9",
-    "apkUrl":  "https://broadway21-sudo.github.io/lfk-updates/downloads/lfk-1.0.9.apk",
-    "sha256":  "9813a7daeac3d6cd4107306bbd480a8b1dbef606d27269ac4f4102f2a6d399ed",
-    "notes":  "Добавлена локальная русская озвучка упражнений голосом Microsoft Irina."
+    "versionCode":  11,
+    "versionName":  "1.0.10",
+    "apkUrl":  "https://broadway21-sudo.github.io/lfk-updates/downloads/lfk-1.0.10.apk",
+    "sha256":  "59d1903e7ffcb2d564d7e52734f84ea31354193835257baef463a25bbcacb207",
+    "notes":  "Удалена роботная WAV-озвучка; выбранные Android TTS голоса снова используются напрямую."
 }
