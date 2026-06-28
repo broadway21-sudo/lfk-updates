@@ -1,0 +1,7 @@
+﻿{
+    "versionCode":  7,
+    "versionName":  "1.0.6",
+    "apkUrl":  "https://broadway21-sudo.github.io/lfk-updates/downloads/lfk-1.0.6.apk",
+    "sha256":  "ced2200cd39a19aa656054a2c2d2e037b1ecb9b7b2189e62ef67bdeb6a8e6cf4",
+    "notes":  "Перенос канала обновлений в публичный lfk-updates, диагностика голоса и обновлений, fallback на системный Android TTS."
+}
