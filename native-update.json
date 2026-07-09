@@ -1,7 +1,7 @@
 ﻿{
-    "versionCode":  13,
-    "versionName":  "1.0.12",
-    "apkUrl":  "https://broadway21-sudo.github.io/lfk-updates/downloads/lfk-1.0.12.apk",
-    "sha256":  "57fffba69614cd84ec88a55fdd280b18bbe51622663a8b69c70a6275a4c33ac2",
-    "notes":  "Улучшены дизайн, анимации, карточка «Миссия стопы» и экран тренировки."
+    "versionCode":  14,
+    "versionName":  "1.0.13",
+    "apkUrl":  "https://broadway21-sudo.github.io/lfk-updates/downloads/lfk-1.0.13.apk",
+    "sha256":  "a0241fa1b2237b670fac1f7d089b20605c0603e148a4386fc1bb951712e0e98b",
+    "notes":  "Обновлены все экраны: живые анимации, каскадные карточки, график прогресса и экран выбора голоса."
 }
