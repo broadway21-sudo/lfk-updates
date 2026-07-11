@@ -1,7 +1,7 @@
 ﻿{
-    "versionCode":  14,
-    "versionName":  "1.0.13",
-    "apkUrl":  "https://broadway21-sudo.github.io/lfk-updates/downloads/lfk-1.0.13.apk",
-    "sha256":  "a0241fa1b2237b670fac1f7d089b20605c0603e148a4386fc1bb951712e0e98b",
-    "notes":  "Обновлены все экраны: живые анимации, каскадные карточки, график прогресса и экран выбора голоса."
+    "versionCode":  15,
+    "versionName":  "1.0.14",
+    "apkUrl":  "https://broadway21-sudo.github.io/lfk-updates/downloads/lfk-1.0.14.apk",
+    "sha256":  "888c4743ab3a9bf3af3ba27a8ebd4a845824b86ca92a790abd7bc6563695e57f",
+    "notes":  "Финальный polish: живее цели, план, награды, голос и экран результата."
 }
