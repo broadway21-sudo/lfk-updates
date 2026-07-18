@@ -1,7 +1,7 @@
-﻿{
-    "versionCode":  15,
-    "versionName":  "1.0.14",
-    "apkUrl":  "https://broadway21-sudo.github.io/lfk-updates/downloads/lfk-1.0.14.apk",
-    "sha256":  "888c4743ab3a9bf3af3ba27a8ebd4a845824b86ca92a790abd7bc6563695e57f",
-    "notes":  "Финальный polish: живее цели, план, награды, голос и экран результата."
+{
+    "versionCode":  16,
+    "versionName":  "1.0.15",
+    "apkUrl":  "https://broadway21-sudo.github.io/lfk-updates/downloads/lfk-1.0.15.apk",
+    "sha256":  "ed3be646daca23f907fc2bfd16bd301c63bf1d429ed011c8136a1eb473ae23b8",
+    "notes":  "\u041d\u043e\u0432\u044b\u0439 \u0434\u0435\u0442\u0441\u043a\u0438\u0439 \u0434\u0438\u0437\u0430\u0439\u043d: \u043c\u0438\u0441\u0441\u0438\u0438, \u043c\u0430\u0440\u0448\u0440\u0443\u0442\u044b, \u0438\u0433\u0440\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 \u0438 \u0442\u0440\u043e\u043f\u0430 \u043d\u0430\u0433\u0440\u0430\u0434."
 }
