@@ -1,0 +1,8 @@
+{
+  "versionCode": 14,
+  "versionName": "1.4.0",
+  "apkUrl": "https://broadway21-sudo.github.io/lfk-updates/downloads/autopark-v1.4.0.apk",
+  "sha256": "822f4eb7e6b1d5418eb45963d720c68ef936120ae53e0ff523dd1c41f54431c1",
+  "notes": "Безпечне автооновлення, перевірка SHA-256, оперативний дашборд і аналітика власника.",
+  "mandatory": false
+}
